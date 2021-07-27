@@ -1,1 +1,1 @@
-Aplicación de prueba
+Aplicación de prueba API Rick & Morty
