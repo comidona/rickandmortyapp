@@ -1,0 +1,2 @@
+rootProject.name = "teco"
+include ':app'

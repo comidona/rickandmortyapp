@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rick &amp; Morty</string>
+    <string name="character_name">Nombre</string>
+    <string name="alive">Alive</string>
+    <string name="main_characteristics">Caracteristicas:</string>
+    <string name="specie">Especie:</string>
+    <string name="type">Tipo:</string>
+    <string name="gender">Genero:</string>
+    <string name="close">CERRAR</string>
+    <string name="loading">Cargando…</string>
+    <string name="character_img">Fotografia</string>
+    <string name="location">Ubicación</string>
+    <string name="retry">Reintentar</string>
+    <string name="logo_image">Logo</string>
+</resources>
